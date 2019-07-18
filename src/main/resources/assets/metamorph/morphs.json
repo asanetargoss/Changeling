@@ -39,7 +39,7 @@
         "health": 10,
         "hands": true
     },
-    "Ozelot": {
+    "Ocelot": {
         "health": 10,
         "speed": 0.15,
         "hands": true
